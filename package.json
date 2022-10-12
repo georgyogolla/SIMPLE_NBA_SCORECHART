@@ -1,0 +1,23 @@
+{
+  "name": "scorechart",
+  "version": "1.0.0",
+  "description": "scorechart",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgyogolla/SIMPLE_NBA_SCORECHART.git"
+  },
+  "author": "George Ogolla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgyogolla/SIMPLE_NBA_SCORECHART/issues"
+  },
+  "homepage": "https://github.com/georgyogolla/SIMPLE_NBA_SCORECHART#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
